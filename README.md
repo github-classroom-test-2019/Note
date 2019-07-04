@@ -1,5 +1,9 @@
 # Note
 
+## ToDo
+
+1. Make sure *private repo* is available
+
 ## Auto-notify all TAs when comment in issues
 
 - [GitHub Org. notification email](https://github.com/settings/notifications)
